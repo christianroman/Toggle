@@ -7,7 +7,7 @@ function toggleFile() {
         } else if (url.substr(-2) == '.h') {
             newUrl = url.replace('.h', '.m');
         } else {
-        	return;
+            return;
         }
         chrome.tabs.update(tab.id, {
             url: newUrl

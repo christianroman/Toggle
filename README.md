@@ -2,6 +2,12 @@ Toggle
 =======================
 Google Chrome extension to toggle between .h and .m source files on GitHub.
 
+Installation
+---
+1. Download the [.crx][5] file.
+1. Open [chrome://extensions/][6].
+1. Drag and drop the extension you just downloaded into the Chrome extensions page.
+
 Usage
 ---
 `Ctrl` + `Cmd` + `Up` or `Down` on Objective-C source file on Github, just like Xcode.
@@ -52,3 +58,5 @@ Twitter: [http://twitter.com/chroman][3]
   [2]: mailto:chroman16@gmail.com
   [3]: http://twitter.com/chroman
   [4]: https://github.com/jurre/switchr
+  [5]: https://github.com/chroman/Toggle/raw/master/Toggle.crx
+  [6]: chrome://chrome/extensions/
