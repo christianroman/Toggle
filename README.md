@@ -1,11 +1,15 @@
 Toggle
 =======================
-Google Chrome extension to toggle between .h and .m source files on GitHub.
+Google Chrome extension to toggle between `.h` and `.m` source files on GitHub.
 
 Installation
 ---
-1. Download the [.crx][5] file.
-1. Open [chrome://extensions/][6].
+[Install][5] it from Chrome web store.
+
+or
+
+1. Download the [.crx][6] file.
+1. Open [chrome://extensions/][7].
 1. Drag and drop the extension you just downloaded into the Chrome extensions page.
 
 Usage
@@ -58,5 +62,6 @@ Twitter: [http://twitter.com/chroman][3]
   [2]: mailto:chroman16@gmail.com
   [3]: http://twitter.com/chroman
   [4]: https://github.com/jurre/switchr
-  [5]: https://github.com/chroman/Toggle/raw/master/Toggle.crx
-  [6]: chrome://chrome/extensions/
+  [5]: https://chrome.google.com/webstore/detail/toggle/pihgadddkgfkmhdbpecclkioldgenbil
+  [6]: https://github.com/chroman/Toggle/raw/master/Toggle.crx
+  [7]: chrome://chrome/extensions/

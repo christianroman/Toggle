@@ -1,10 +1,11 @@
 {
-  "name": "Toggle",
-  "version": "1.0.0",
   "manifest_version": 2,
+  "name": "Toggle",
+  "short_name": "Toggle",
+  "version": "1.0.0",
   "description": "Toggle between .h and .m source files on GitHub.",
   "homepage_url": "https://github.com/chroman/Toggle",
-  "author": "Christian Roman",
+  "author": "Christian Roman <chroman16@gmail.com>",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -18,7 +19,8 @@
   },
   "permissions": [
     "tabs",
-    "*://*/*"
+    "http://*/*",
+    "https://*/*"
   ],
   "commands": {
     "toggle-file-up": {
