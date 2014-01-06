@@ -22,7 +22,7 @@ Requirements
 
 Credits
 ----------
-* [switchr][4] - All credits go to [Jurre][8] he was the one with the idea and who made it possible! 👍
+* [switchr][4] - All credits go to [Jurre][8] he was the one with the idea and who made it possible!
 
 ## License
 Toggle is is released under the MIT license.
