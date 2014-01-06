@@ -22,7 +22,7 @@ Requirements
 
 Credits
 ----------
-* [switchr][4]
+* [switchr][4] - All credits go to [Jurre][8] he was the one with the idea and who made it possible! 👍
 
 ## License
 Toggle is is released under the MIT license.
@@ -65,3 +65,4 @@ Twitter: [http://twitter.com/chroman][3]
   [5]: https://chrome.google.com/webstore/detail/toggle/pihgadddkgfkmhdbpecclkioldgenbil
   [6]: https://github.com/chroman/Toggle/raw/master/Toggle.crx
   [7]: chrome://chrome/extensions/
+  [8]: https://github.com/jurre
