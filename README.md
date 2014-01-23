@@ -27,7 +27,7 @@ Credits
 ## License
 Toggle is is released under the MIT license.
 
-Copyright (c) 2012 Christian H. Roman Mendoza
+Copyright (c) 2014 Christian H. Roman Mendoza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -47,16 +47,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Contact me
+Contact
 ----------
 
 Christian Roman
   
-Website: [http://chroman.me][1]
+[http://chroman.me][1]
 
-Contact: [chroman16@gmail.com][2]
+[chroman16@gmail.com][2]
 
-Twitter: [http://twitter.com/chroman][3] 
+[@chroman][3] 
 
   [1]: http://chroman.me
   [2]: mailto:chroman16@gmail.com
