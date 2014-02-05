@@ -18,3 +18,4 @@ function toggleFile() {
 chrome.commands.onCommand.addListener(function (command) {
     toggleFile();
 });
+
