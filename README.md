@@ -9,8 +9,8 @@ Installation
 or
 
 1. Download the [.crx][6] file.
-1. Open [chrome://extensions/][7].
-1. Drag and drop the extension you just downloaded into the Chrome extensions page.
+2. Open [chrome://extensions/][7].
+3. Drag and drop the extension you just downloaded into the Chrome extensions page.
 
 Usage
 ---
