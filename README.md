@@ -17,7 +17,7 @@ Usage
 `Ctrl` + `Cmd` + `Up` or `Down` on Objective-C source file on Github, just like Xcode.
 
 Requirements
-----------
+---
 * Google Chrome 25+
 
 Credits
