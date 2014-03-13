@@ -21,7 +21,7 @@ Requirements
 * Google Chrome 25+
 
 Credits
-----------
+---
 * [switchr][4] - All credits go to [Jurre][8] he was the one with the idea and who made it possible!
 
 ## License
